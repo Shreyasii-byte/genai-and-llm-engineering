@@ -7,7 +7,7 @@ This project explores the fundamentals of Large Language Models (LLMs) through p
 
 The notebook demonstrates how to interact with LLMs, design effective prompts, generate structured responses, and perform basic response evaluation.
 
-## 🎯 Objectives
+## 🎯 Objective:
 
 - Understand how Large Language Models work.
 - Learn different prompt engineering techniques.
