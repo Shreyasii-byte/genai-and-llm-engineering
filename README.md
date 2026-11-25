@@ -16,7 +16,7 @@ The notebook demonstrates how to interact with LLMs, design effective prompts, g
 - Build reusable functions for LLM interaction.
 - Perform basic evaluation of model responses.
 
-## 🧠 Concepts Covered
+## 🧠 Concepts Covered in this:
 
 | Concept | Description |
 |---|---|
